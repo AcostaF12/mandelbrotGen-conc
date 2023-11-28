@@ -1,11 +1,10 @@
-# PConc-TP-2023s2
+# mandelbrotGen-conc
 
-## Trabajo Practico Grupal Programacion Concurrente
+## Trabajo Practico Final Programacion Concurrente
 
-  - Acosta, Federico Antonio
-  - Cirilli, Ignacio
-  - Garcia, Juan Ignacio
+El proyecto genera conjuntos de mandelbrot, utilizando threads (worker) y monitores (buffer) de forma concurrente, como el siguiente:
 
+![image](https://github.com/AcostaF12/mandelbrotGen-conc/assets/107961278/43010d43-4f7d-47b5-a655-1076c7d8eab3)
 
 ## Documentación de uso:
 
